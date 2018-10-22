@@ -1,0 +1,56 @@
+﻿<Window x:Class="DominoClient.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DominoClient"
+        mc:Ignorable="d"
+        Title="Login" Height="800" Width="1000" WindowStartupLocation="CenterScreen" Closed="Window_Closed">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/background.jpg"/>
+        </Grid.Background>
+        <Label VerticalAlignment="Top" Margin="0, 50, 0, 0" HorizontalAlignment="Center" FontSize="120" FontFamily="Stencil">Dominoes</Label>
+
+        <Grid VerticalAlignment="Center" HorizontalAlignment="Center" Width="500">
+            <TabControl Background="{x:Null}" BorderBrush="{x:Null}">
+                <TabItem Width="100">
+                    <TabItem.Header>
+                        <TextBlock>LOGIN</TextBlock>
+                    </TabItem.Header>
+                    <Grid>
+                        <Label Name="LoginErrorInfo" HorizontalAlignment="Center" Margin="0, 20, 0, 0" VerticalAlignment="Top" Foreground="Red" Content="" FontFamily="Stencil" Width="500" FontSize="18"/>
+                        <TextBox HorizontalAlignment="Left" Text="" Padding="5, 3, 3, 5" Margin="180,50,0,150" Name="LoginTextBox" Width="250" Foreground="Black" TabIndex="0" BorderThickness="0" SnapsToDevicePixels="True" FontSize="20" TextAlignment="Justify" CaretBrush="Black"></TextBox>
+                        <PasswordBox HorizontalAlignment="Left" Padding="5, 7, 7, 5" Margin="180,100,0,0" Name="PasswordTextBox" VerticalAlignment="Top" Width="250" Foreground="Black" TabIndex="1" BorderThickness="0" FontSize="20" PasswordChar="*" CaretBrush="Black"></PasswordBox>
+                        <Label Height="35" HorizontalAlignment="Left" Margin="20,50,0,0" Name="LoginText" VerticalAlignment="Top" Width="150" Content="Login" FontFamily="Stencil" FontSize="24"/>
+                        <Label Height="35" HorizontalAlignment="Left" Margin="20,100,0,0" Name="PasswordText" VerticalAlignment="Top" Width="150" Content="Password" FontFamily="Stencil" FontSize="24"/>
+                        <Button x:Name="LoginBtn" Height="40" Width="130" Margin="30,155,0,40" HorizontalAlignment="Left" FontFamily="Stencil" Click="LoginBtn_Click">Login</Button>
+                        <Button x:Name="ForgotBtn" Height="40" Width="130" Margin="10,155,10,40" HorizontalAlignment="Center" FontFamily="Stencil" Click="ForgotBtn_Click">Forgot?</Button>
+                        <Button x:Name="ExitBtn" Height="40" Width="130" Margin="0,155,30,40" HorizontalAlignment="Right" FontFamily="Stencil" Click="ExitBtn_Click">Exit</Button>
+                    </Grid>
+                </TabItem>
+                <TabItem Width="100">
+                    <TabItem.Header>
+                        <TextBlock>SIGN UP</TextBlock>
+                    </TabItem.Header>
+                    <Grid>
+                        <Label Name="SignUpErrorInfo" HorizontalAlignment="Center" Margin="0, 20, 0, 0" VerticalAlignment="Top" Foreground="Red" Content="" Width="500" FontSize="18" FontFamily="Stencil"/>
+                        <TextBox HorizontalAlignment="Left" Text="" Padding="5, 3, 3, 5" Margin="180,50,0,150" Name="SignUpLoginTextBox" Width="250" Foreground="Black" TabIndex="0" BorderThickness="0" SnapsToDevicePixels="True" FontSize="20" TextAlignment="Justify" CaretBrush="Black" VerticalAlignment="Top"/>
+                        <PasswordBox HorizontalAlignment="Left" Padding="5, 7, 7, 5" Margin="180,100,0,0" Name="SignUpPasswordTextBox" VerticalAlignment="Top" Width="250" Foreground="Black" TabIndex="1" BorderThickness="0" FontSize="20" PasswordChar="*" CaretBrush="Black"/>
+                        <Label Height="35" HorizontalAlignment="Left" Margin="20,50,0,0" Name="LoginSignUpText" VerticalAlignment="Top" Width="150" Content="Login" FontFamily="Stencil" FontSize="24"/>
+                        <Label Height="35" HorizontalAlignment="Left" Margin="20,100,0,0" Name="PasswordSignUpText" VerticalAlignment="Top" Width="150" Content="Password" FontFamily="Stencil" FontSize="24" />
+                        <Label Height="35" HorizontalAlignment="Center" Margin="0,150,0,0" Name="ReminderSignUpText" VerticalAlignment="Top" Width="300" Content="Reminder question" FontFamily="Stencil" FontSize="24" HorizontalContentAlignment="Center" />
+                        <TextBox HorizontalAlignment="Left" Text="" Padding="5, 3, 3, 5" Margin="0,200,0,0" Name="ReminderSignUpTextBox" Width="500" Foreground="Black" TabIndex="0" BorderThickness="0" SnapsToDevicePixels="True" FontSize="20" TextAlignment="Justify" CaretBrush="Black" VerticalAlignment="Top"/>
+                        <Button x:Name="SignUpBtn" Height="40" Width="150" Margin="0,250,0,0" HorizontalAlignment="Center" FontFamily="Stencil" VerticalAlignment="Bottom" Click="SignUpBtn_Click">Sign Up</Button>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+        </Grid>
+        <Grid Name="ForgotPasswordGrid" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="500" Visibility="Hidden">
+            <Label Height="35" HorizontalAlignment="Left" Margin="20,0,10,0" Name="LoginForgotText" VerticalAlignment="Top" Width="100" Content="Login" FontFamily="Stencil" FontSize="24"/>
+            <TextBox HorizontalAlignment="Left" Text="" Padding="5, 3, 3, 5" Margin="120,0,10,0" Name="LoginForgotTextBox" Width="250" Foreground="Black" TabIndex="0" BorderThickness="0" SnapsToDevicePixels="True" FontSize="20" TextAlignment="Justify" CaretBrush="Black" VerticalAlignment="Top"/>
+            <Button x:Name="ShowForgotPassBtn" Height="35" Width="100" Margin="380,0,10,20" HorizontalAlignment="Left" FontFamily="Stencil" VerticalAlignment="Top" Click="ShowForgotPassBtn_Click">Check</Button>
+            <Label Height="35" HorizontalAlignment="Left" Margin="50,50,50,0" Name="HintText" VerticalAlignment="Bottom" Width="400" Content="" FontFamily="Stencil" FontSize="24"/>
+        </Grid>
+    </Grid>
+</Window>

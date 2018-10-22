@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8dda645b-7f9e-454e-877d-5519ffcf8687" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="net.tcp://localhost:7557/Dominoes/Mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="0ac7fe91-7573-4571-b02f-8f8e9f9f04b9" SourceId="1" SourceUrl="net.tcp://localhost:7557/Dominoes/Mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="6e895e30-402f-4a31-a8e2-0b72c602f2e6" SourceId="1" SourceUrl="net.tcp://localhost:7557/Dominoes/Mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="7e7fac1b-93bc-4c8a-bab9-0252cc09baa1" SourceId="1" SourceUrl="net.tcp://localhost:7557/Dominoes/Mex" />
+    <MetadataFile FileName="DominoServer.xsd" MetadataType="Schema" ID="3ff7e8a2-4073-44ec-af96-134b9ca4e405" SourceId="1" SourceUrl="net.tcp://localhost:7557/Dominoes/Mex" />
+    <MetadataFile FileName="System.Windows.xsd" MetadataType="Schema" ID="51087fb8-9e45-4a12-953e-35c6d0a1caa6" SourceId="1" SourceUrl="net.tcp://localhost:7557/Dominoes/Mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="6366c2db-d613-4525-a847-155aafadae0d" SourceId="1" SourceUrl="net.tcp://localhost:7557/Dominoes/Mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

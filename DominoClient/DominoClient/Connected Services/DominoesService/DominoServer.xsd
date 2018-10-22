@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/DominoServer" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/DominoServer" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/System.Windows" />
+  <xs:complexType name="Player">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Games" type="xs:int" />
+      <xs:element minOccurs="0" name="MinScore" type="xs:int" />
+      <xs:element minOccurs="0" name="Nickname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Wins" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Player" nillable="true" type="tns:Player" />
+  <xs:simpleType name="Position">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="L" />
+      <xs:enumeration value="R" />
+      <xs:enumeration value="M" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="Position" nillable="true" type="tns:Position" />
+  <xs:complexType name="TableValues">
+    <xs:annotation>
+      <xs:appinfo>
+        <IsValueType xmlns="http://schemas.microsoft.com/2003/10/Serialization/">true</IsValueType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Left" type="xs:int" />
+      <xs:element minOccurs="0" name="Right" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TableValues" nillable="true" type="tns:TableValues" />
+  <xs:complexType name="ArrayOfArrayOfBone">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ArrayOfBone" nillable="true" type="tns:ArrayOfBone" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfArrayOfBone" nillable="true" type="tns:ArrayOfArrayOfBone" />
+  <xs:complexType name="ArrayOfBone">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Bone" nillable="true" type="tns:Bone" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBone" nillable="true" type="tns:ArrayOfBone" />
+  <xs:complexType name="Bone">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Angle" type="xs:double" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/System.Windows" minOccurs="0" name="Coords" type="q1:Point" />
+      <xs:element minOccurs="0" name="FirstValue" type="xs:int" />
+      <xs:element minOccurs="0" name="Pos" type="tns:Position" />
+      <xs:element minOccurs="0" name="SecondValue" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Bone" nillable="true" type="tns:Bone" />
+</xs:schema>

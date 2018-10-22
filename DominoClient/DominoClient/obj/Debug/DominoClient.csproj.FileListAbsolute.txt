@@ -1,0 +1,87 @@
+D:\Programming\WCF\Projects\DominoClient\DominoClient\bin\Debug\DominoClient.exe.config
+D:\Programming\WCF\Projects\DominoClient\DominoClient\bin\Debug\DominoClient.exe
+D:\Programming\WCF\Projects\DominoClient\DominoClient\bin\Debug\DominoClient.pdb
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient.csprojResolveAssemblyReference.cache
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\MainWindow.g.cs
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\App.g.cs
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.cache
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.lref
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\MainWindow.baml
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient.g.resources
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient.Properties.Resources.resources
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.GenerateResource.Cache
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.CoreCompileInputs.cache
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient.exe
+D:\Programming\WCF\Projects\DominoClient\DominoClient\obj\Debug\DominoClient.pdb
+D:\Programming\Курсовая работа\DominoClient\DominoClient\bin\Debug\DominoClient.exe.config
+D:\Programming\Курсовая работа\DominoClient\DominoClient\bin\Debug\DominoClient.exe
+D:\Programming\Курсовая работа\DominoClient\DominoClient\bin\Debug\DominoClient.pdb
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient.csprojResolveAssemblyReference.cache
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\MainWindow.g.cs
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\App.g.cs
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.cache
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.lref
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\MainWindow.baml
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient.g.resources
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient.Properties.Resources.resources
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.GenerateResource.Cache
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.CoreCompileInputs.cache
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient.exe
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\DominoClient.pdb
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\LoginWindow.g.cs
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\LoginWindow.baml
+D:\Programming\Курсовая работа\DominoClient\DominoClient\obj\Debug\App.baml
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csprojResolveAssemblyReference.cache
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\LoginWindow.g.cs
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\MainWindow.g.cs
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\App.g.cs
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.cache
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.lref
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.exe
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.pdb
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.exe.config
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.exe
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.pdb
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\App.baml
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\LoginWindow.baml
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\MainWindow.baml
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.g.resources
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.Properties.Resources.resources
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.GenerateResource.Cache
+d:\Programming\Курсовая работа\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.CoreCompileInputs.cache
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.exe.config
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.exe
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.pdb
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csprojResolveAssemblyReference.cache
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\LoginWindow.g.cs
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\MainWindow.g.cs
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\App.g.cs
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.cache
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.lref
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\App.baml
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\LoginWindow.baml
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\MainWindow.baml
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.g.resources
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.Properties.Resources.resources
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.GenerateResource.Cache
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.CoreCompileInputs.cache
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.exe
+D:\Programming\Курсовая работа .NET\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.pdb
+d:\Programming\Projects\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.exe.config
+d:\Programming\Projects\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.exe
+d:\Programming\Projects\Domino\DominoClient\DominoClient\bin\Debug\DominoClient.pdb
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csprojAssemblyReference.cache
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\LoginWindow.g.cs
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\MainWindow.g.cs
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\App.g.cs
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.cache
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient_MarkupCompile.lref
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\App.baml
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\LoginWindow.baml
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\MainWindow.baml
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.g.resources
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.Properties.Resources.resources
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.GenerateResource.cache
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.csproj.CoreCompileInputs.cache
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.exe
+d:\Programming\Projects\Domino\DominoClient\DominoClient\obj\Debug\DominoClient.pdb

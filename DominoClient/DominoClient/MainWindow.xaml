@@ -1,0 +1,58 @@
+﻿<Window x:Class="DominoClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DominoClient"
+        mc:Ignorable="d"
+        Title="Dominoes" Height="800" Width="1100" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Closed="Window_Closed">
+    <Grid Background="#FF623B20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Button x:Name="LoginBtn" Width="200" Click="LoginBtn_Click" FontSize="16" FontWeight="Black">Login</Button>
+            <Button x:Name="JoinBtn" Width="100" Click="JoinBtn_Click" FontSize="16" FontWeight="Black" IsEnabled="False">Join</Button>
+            <Label x:Name="ActionLabel" Width="400" Background="#FFDDDDDD" FontSize="16" FontWeight="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="2,2,2,2" VerticalContentAlignment="Center"></Label>
+            <Button x:Name="DeckBtn" Width="100" Click="DeckBtn_Click" FontSize="16" FontWeight="Black" IsEnabled="False">Deck</Button>
+            <Label x:Name="DeckLabel" Width="85" Background="#FFDDDDDD" FontSize="16" FontWeight="Black" HorizontalAlignment="Center" HorizontalContentAlignment="Center" BorderBrush="Black" BorderThickness="2" VerticalContentAlignment="Center"></Label>
+            <Button x:Name="StatisticBtn" Width="100" FontSize="16" FontWeight="Black" Click="StatisticBtn_Click" IsEnabled="False">Statistic</Button>
+            <Button x:Name="ExitBtn" Width="100" FontSize="16" FontWeight="Black" Click="ExitBtn_Click">Exit</Button>
+        </StackPanel>
+
+        <Grid Grid.Row="1" ShowGridLines="True">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="100"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="100"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Background="White" Height="100">
+                <Label HorizontalAlignment="Center" FontSize="24">Game</Label>
+                <Label x:Name="GameCountLabel" FontSize="24" HorizontalAlignment="Center"></Label>
+            </StackPanel>
+            <StackPanel Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" Background="White" Height="100">
+                <Label HorizontalAlignment="Center" FontSize="24">Score</Label>
+                <Label x:Name="ScoreCountLabel" FontSize="24" HorizontalAlignment="Center"></Label>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Background="White" Height="100">
+                <Image Source="Images/profile.png" Height="50"></Image>
+                <Label x:Name="NicknameLabel" HorizontalAlignment="Center" FontSize="16"></Label>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" Background="White" Height="100">
+                <Label HorizontalAlignment="Center" FontSize="24">Time</Label>
+                <Label x:Name="TimeLabel" HorizontalAlignment="Center" FontSize="24"></Label>
+            </StackPanel>
+            <StackPanel x:Name="FirstOpponentField" Grid.Row="0" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center"></StackPanel>
+            <StackPanel x:Name="SecondOpponentField" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center"></StackPanel>
+            <StackPanel x:Name="ThirdOpponentField" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center"></StackPanel>
+            <Canvas x:Name="GameField" Grid.Column="1" Grid.Row="1" Background="#FF36860B" IsEnabled="False"/>
+            <StackPanel x:Name="PlayerField" Grid.Row="2" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" IsEnabled="False"></StackPanel>
+        </Grid>
+    </Grid>
+</Window>
