@@ -1,0 +1,43 @@
+D:\Programming\WCF\Projects\DominoServer\DominoServer\bin\Debug\DominoServer.exe.config
+D:\Programming\WCF\Projects\DominoServer\DominoServer\bin\Debug\DominoServer.exe
+D:\Programming\WCF\Projects\DominoServer\DominoServer\bin\Debug\DominoServer.pdb
+D:\Programming\WCF\Projects\DominoServer\DominoServer\obj\Debug\DominoServer.csprojResolveAssemblyReference.cache
+D:\Programming\WCF\Projects\DominoServer\DominoServer\obj\Debug\DominoServer.csproj.CoreCompileInputs.cache
+D:\Programming\WCF\Projects\DominoServer\DominoServer\obj\Debug\DominoServer.exe
+D:\Programming\WCF\Projects\DominoServer\DominoServer\obj\Debug\DominoServer.pdb
+D:\Programming\Курсовая работа\DominoServer\DominoServer\bin\Debug\DominoServer.exe.config
+D:\Programming\Курсовая работа\DominoServer\DominoServer\bin\Debug\DominoServer.exe
+D:\Programming\Курсовая работа\DominoServer\DominoServer\bin\Debug\DominoServer.pdb
+D:\Programming\Курсовая работа\DominoServer\DominoServer\obj\Debug\DominoServer.csprojResolveAssemblyReference.cache
+D:\Programming\Курсовая работа\DominoServer\DominoServer\obj\Debug\DominoServer.csproj.CoreCompileInputs.cache
+D:\Programming\Курсовая работа\DominoServer\DominoServer\obj\Debug\DominoServer.exe
+D:\Programming\Курсовая работа\DominoServer\DominoServer\obj\Debug\DominoServer.pdb
+d:\Programming\Курсовая работа\DominoServer\DominoServer\bin\Debug\DominoesDB.mdf
+d:\Programming\Курсовая работа\DominoServer\DominoServer\bin\Debug\DominoesDB_log.ldf
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\bin\Debug\DominoesDB.mdf
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\bin\Debug\DominoesDB_log.ldf
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.exe.config
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.exe
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.pdb
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.csprojResolveAssemblyReference.cache
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.csproj.CoreCompileInputs.cache
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.exe
+d:\Programming\Курсовая работа\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.pdb
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\bin\Debug\DominoesDB.mdf
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\bin\Debug\DominoesDB_log.ldf
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.exe.config
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.exe
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.pdb
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.csprojResolveAssemblyReference.cache
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.csproj.CoreCompileInputs.cache
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.exe
+d:\Programming\Курсовая работа .NET\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.pdb
+d:\Programming\Projects\Domino\DominoServer\DominoServer\bin\Debug\DominoesDB.mdf
+d:\Programming\Projects\Domino\DominoServer\DominoServer\bin\Debug\DominoesDB_log.ldf
+d:\Programming\Projects\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.exe.config
+d:\Programming\Projects\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.exe
+d:\Programming\Projects\Domino\DominoServer\DominoServer\bin\Debug\DominoServer.pdb
+d:\Programming\Projects\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.csprojAssemblyReference.cache
+d:\Programming\Projects\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.csproj.CoreCompileInputs.cache
+d:\Programming\Projects\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.exe
+d:\Programming\Projects\Domino\DominoServer\DominoServer\obj\Debug\DominoServer.pdb
